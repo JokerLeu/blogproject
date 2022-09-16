@@ -15,7 +15,7 @@ idna==2.6
 jieba==0.39
 Jinja2==2.8
 lxml==4.1.1
-Mako==1.0.4
+Mako==1.2.2
 Markdown==2.6.11
 MarkupSafe==0.23
 mock==2.0.0
